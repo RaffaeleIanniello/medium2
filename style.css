@@ -1,0 +1,172 @@
+body{
+    height: 100%;
+    width: 100%;
+    }
+    nav {
+        background-color: #ffc017;
+        color: black;
+        font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ;
+    display: flex;   
+    flex-direction: row; 
+    justify-content:space-around;
+    width: 100%;
+    padding-top: 1%;
+    padding-bottom: 10px;
+    border-bottom: 2px solid black;
+    position: sticky;
+    top:0;
+    z-index: 20;
+    
+    }
+    
+    .list{
+        display: flex;
+        flex-direction: row;
+        list-style-type: none;
+       
+        
+    }
+    .list li{
+        margin-right: 20px;
+        color: black;
+        
+    }
+    .l5 button {
+        background-color: black;
+        color: white;
+        padding: 10px;
+        border-radius: 20px 20px 20px 20px;
+        border-width: 0;
+        font-size: 15px;
+    }
+    #nav2{
+       background-color: #ffc017;
+       color: black;
+       padding-top: 2.5%;
+       padding-bottom: 0;
+        border-bottom: 2px solid black;
+        display: flex;
+        flex-direction: column;
+        align-items: left;
+        justify-content: center;
+    }
+    .acca1{
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 100px;
+    margin-bottom: 10px;
+    transform: translate(170px, -60px);
+    
+    }
+    .hh3{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    position: relative;
+    bottom: 70px;
+    left: 170px;
+    
+    }
+    .h31{
+        position: relative;
+        bottom: 20px;
+    }
+    
+    
+    .butt1{
+        background-color: black;
+        color:white;
+        padding: 10px;
+        border-radius: 40px 40px 40px 40px;
+        border-width: 0;
+        font-size: 20px;
+        width: 140px;
+        position: relative;
+        bottom: 60px;
+        left: 170px;
+    }
+    article #main2{
+        
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size:10px;
+    font-weight: 600;
+        position: relative;
+        right:20px;
+        
+    
+    }
+    .ulclass {
+        display: flex;
+        flex-direction: row;
+        justify-content: left;
+        align-items: center;
+        list-style-type: none;
+    }
+    .ulclass2 {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        
+        
+    }
+    .ulclass li, .ulclass2 li{
+        list-style-type: none;
+    }
+        
+        
+        
+        
+        
+    
+    li.tr1{
+        position: relative;
+        right: 20px;
+    }
+    .ulclass{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        
+        flex-wrap: wrap;
+        
+        
+        align-content:flex-start;
+    }
+    
+    .acca3{margin-left: 170px;}
+    article #text{
+        display: flex;
+        flex-direction: column;
+    }
+    
+    footer{
+        
+       transform: translate(900px, -1800px);
+      
+    }
+    .button3 li{list-style-type: none;}
+    .ulli{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        flex-wrap: wrap;
+        list-style-type: none;
+    }
+    footer{
+        position: sticky;
+    }
+    .button3 button{
+        background-color: rgb(218, 212, 212);
+        border: none;
+        font-size: 20px;
+        border-radius: 30px 30px 30px 30px;
+        list-style-type: none;
+        margin-top: 5px;
+        
+    }
+    footer h3{
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+    #text{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
